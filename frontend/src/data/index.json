@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Hello! I'm an Artificial Intelligence system.",
+    "description": "Welcome to our AI-UI COVID-19 Projects",
+    "text": " Hello! I'm an Artificial Intelligence system to help you predict COVID-19. We're on a mission to to help you predict COVID-19 given Chest X-Ray or CT-Scan images as well as patients clinical dataset. Please prepare your data beforehand.",
+    "subtitle": "Choose One",
+    "list": [
+      {
+        "name": "Prediksi dengan X-Ray",
+        "image": "images/xray.png",
+        "cond": true
+      },
+      {
+        "name": "Prediksi dengan CT-Scan",
+        "image": "images/ctscan.jpeg",
+        "cond": false
+      }
+    ]
+  }
+]
